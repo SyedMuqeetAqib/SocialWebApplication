@@ -1,0 +1,102 @@
+news feed cards of all type
+    - polls
+    - Images and Videos
+    - Questions
+    - Announcements
+    - Job
+badges of number on SVG
+
+Pages:
+    1 - NewsFeed (Contain all by time)
+    2 - Pages
+    3 - Events
+    4 - FAQ
+    5 - Jobs
+    6 - Groups
+    7 - Following
+    8 - Login and Signup Page
+
+router
+
+for search results we have to use redux
+
+create Post modal editions
+
+aws for storage
+
+[
+    {
+    Laptop:{
+    [
+        {
+            productname:"hp-3wqe",
+            price:23423,
+            rating:2,
+            brand:hp,
+            details:"lsdkfjldskf",
+            specs:"ldskfkjlsdkjf",
+            productType:"ksjlkjlfd",
+            productImage:"lksjflksdjf",
+            productPublishTime:"",
+            available:"true",
+            "maxStock":100,
+            deliveryDate:23423,
+            discount:23,
+            shippingTime:23243
+        },
+        {
+            productname:"hp-3wqe",
+            price:23423,
+            rating:2,
+            brand:hp,
+            details:"lsdkfjldskf",
+            specs:"ldskfkjlsdkjf",
+            productType:"ksjlkjlfd",
+            productImage:"lksjflksdjf",
+            productPublishTime:"",
+            available:"true",
+            "maxStock":100,
+            deliveryDate:23423,
+            discount:23,
+            shippingTime:23243
+        },
+        {
+            productname:"hp-3wqe",
+            price:23423,
+            rating:2,
+            brand:hp,
+            details:"lsdkfjldskf",
+            specs:"ldskfkjlsdkjf",
+            productType:"ksjlkjlfd",
+            productImage:"lksjflksdjf",
+            productPublishTime:"",
+            available:"true",
+            "maxStock":100,
+            deliveryDate:23423,
+            discount:23,
+            shippingTime:23243
+        },
+        {
+            productname:"hp-3wqe",
+            price:23423,
+            rating:2,
+            brand:hp,
+            details:"lsdkfjldskf",
+            specs:"ldskfkjlsdkjf",
+            productType:"ksjlkjlfd",
+            productImage:"lksjflksdjf",
+            productPublishTime:"",
+            available:"true",
+            "maxStock":100,
+            deliveryDate:23423,
+            discount:23,
+            shippingTime:23243
+        },
+    ]
+    },
+    Mobile:{
+
+    }
+    
+    }
+]
